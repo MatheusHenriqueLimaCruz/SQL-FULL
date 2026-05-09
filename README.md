@@ -12,11 +12,11 @@ Este repositório foi estruturado com o auxílio do NotebookLM, que utilizei par
 práticas e otimizações de consultas aqui apresentadas para ambientes Microsoft.
 
 # Curadoria de Fontes
-> https://www.youtube.com/watch?v=aYt6pKsBws8
-> https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2012/08/redes_de_computadores_manual_do_professor_banco_de_dados.pdf
-> https://datacoaching.io/wp-content/uploads/2024/06/Advanced-SQL-for-Beginners-Free-Download.pdf
-> https://faculty.cc.gatech.edu/~jarulraj/courses/4420-f21/slides/03-advanced-sql.pdf
-> https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/mssql/Advanced%20SQL%20Database%20Programmers%20Handbook%202003.pdf
+- https://www.youtube.com/watch?v=aYt6pKsBws8
+- https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2012/08/redes_de_computadores_manual_do_professor_banco_de_dados.pdf
+- https://datacoaching.io/wp-content/uploads/2024/06/Advanced-SQL-for-Beginners-Free-Download.pdf
+- https://faculty.cc.gatech.edu/~jarulraj/courses/4420-f21/slides/03-advanced-sql.pdf
+- https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/mssql/Advanced%20SQL%20Database%20Programmers%20Handbook%202003.pdf
 
 # Engenharia de Prompts 
 Ferramenta de Apoio: NotebookLM.
@@ -24,9 +24,9 @@ Processo: O conteúdo foi refinado através de múltiplas iterações de prompts
 Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft.
 
 # Miniguia de Estudo 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 +++++ Um glossário com os principais conceitos aprendidos +++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 * SELECT: Comando principal para a extração e visualização de dados de uma ou mais tabelas.
 * FROM: Define a origem dos dados, indicando em qual tabela a consulta deve buscar as informações.
 * WHERE: Filtro fundamental utilizado para extrair apenas os registros que atendem a uma condição específica.
@@ -45,9 +45,7 @@ Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft
 * HAVING: Filtro aplicado especificamente aos resultados de um agrupamento (GROUP BY), onde o WHERE não pode atuar.
 * CONSTRAINT: Regras aplicadas às colunas de uma tabela (como NOT NULL ou UNIQUE) para manter a qualidade dos dados.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++ Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema +++++
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Prompt: "Atue como um DBA especializado em [SQLSERVER]. Crie o script DDL para uma tabela chamada [TABELA]
 que armazene os dados. Inclua chaves primárias, índices para as colunas de busca frequente e comentários em cada coluna."
