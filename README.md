@@ -7,9 +7,7 @@ Este repositório é fruto de meus estudo com o NotebookLM.
 Aqui registro meus estudos e práticas em SQL Server, priorizando a performance e a entrega de dados otimizada. 
 Acredito que a qualidade da gestão de dados é o diferencial de qualquer aplicação moderna.
 
-Este repositório foi estruturado com o auxílio do NotebookLM, que utilizei para processar e sintetizar a documentação técnica, transformando-a nas implementações 
-práticas e otimizações de consultas aqui apresentadas para ambientes Microsoft.
-
+Este repositório foi estruturado com o auxílio do NotebookLM, que utilizei para processar e sintetizar a documentação técnica.
 # Curadoria de Fontes
 - https://www.youtube.com/watch?v=aYt6pKsBws8
 - https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2012/08/redes_de_computadores_manual_do_professor_banco_de_dados.pdf
