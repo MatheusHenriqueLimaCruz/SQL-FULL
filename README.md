@@ -25,7 +25,7 @@ Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft
 
 # Miniguia de Estudo 
 
-** Um glossário com os principais conceitos aprendidos 
+**Um glossário com os principais conceitos aprendidos**
 
 * SELECT: Comando principal para a extração e visualização de dados de uma ou mais tabelas.
 * FROM: Define a origem dos dados, indicando em qual tabela a consulta deve buscar as informações.
@@ -45,7 +45,7 @@ Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft
 * HAVING: Filtro aplicado especificamente aos resultados de um agrupamento (GROUP BY), onde o WHERE não pode atuar.
 * CONSTRAINT: Regras aplicadas às colunas de uma tabela (como NOT NULL ou UNIQUE) para manter a qualidade dos dados.
 
-+++++ Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema +++++
+**Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema**
 
 Prompt: "Atue como um DBA especializado em [SQLSERVER]. Crie o script DDL para uma tabela chamada [TABELA]
 que armazene os dados. Inclua chaves primárias, índices para as colunas de busca frequente e comentários em cada coluna."
