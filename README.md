@@ -24,6 +24,35 @@ Processo: O conteúdo foi refinado através de múltiplas iterações de prompts
 Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft.
 
 # Miniguia de Estudo 
+## **Resumos estruturados do assuntos**
+
+### 1. Fundamentos e Estrutura (DDL)
+Focado na criação e definição da arquitetura onde os dados residem.
+
+* Normalização: Organização de tabelas para reduzir a redundância e proteger a integridade dos dados.
+* Tipagem de Dados: Escolha estratégica de tipos (ex: INT, VARCHAR, DATETIME) para otimizar o armazenamento.
+* Constraints: Aplicação de regras como NOT NULL, UNIQUE e CHECK para garantir a qualidade da informação na entrada.
+
+### 2. Manipulação e Relacionamento (DML)
+O coração da operação de um Analista de Sistemas para entrega de resultados.
+
+* Relacionamentos (Joins): Conexão lógica entre tabelas usando Chaves Primárias (PK) e Estrangeiras (FK).
+* Filtragem Avançada: Uso de WHERE para dados brutos e HAVING para dados já agrupados.
+* Subqueries e CTEs: Criação de consultas temporárias para decompor problemas lógicos complexos em partes menores.
+
+### 3. Performance e Otimização (Tuning)
+Garantir que o sistema seja rápido, mesmo com grandes volumes de dados.
+
+* Indexação: Criação de índices Clustered (ordem física) e Non-Clustered (ponteiros) para acelerar a busca.
+* SARGability: Escrita de queries que permitam ao motor do SQL Server utilizar os índices de forma eficiente.
+* Execution Plan: Análise do custo da consulta para identificar gargalos como Table Scans excessivos.
+
+### 4. Programabilidade e Automação (T-SQL)
+Lógica de negócio executada diretamente no servidor para maior eficiência.
+
+* Stored Procedures: Encapsulamento de scripts para reutilização e segurança.
+* Triggers: Automação de ações baseadas em eventos de inserção, alteração ou exclusão.
+* Transações (ACID): Uso de BEGIN TRAN, COMMIT e ROLLBACK para garantir que as operações sejam atômicas e seguras.
 
 ## **Um glossário com os principais conceitos aprendidos**
 
