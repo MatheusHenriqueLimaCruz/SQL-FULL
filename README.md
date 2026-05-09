@@ -1,5 +1,4 @@
 # SQL-FULL
-SQL DATA BASE CONTENT
 
 Este repositório é fruto de meus estudo com o NotebookLM.
 
@@ -90,6 +89,9 @@ Prompt: "Analise a query abaixo e sugira melhorias de performance, considerando 
 redução de subqueries e substituição de cursores por operações baseadas em conjuntos"
 
 Prompt: "Escreva uma Stored Procedure para o SQL Server que realize o CRUD da tabela [Nome]. Garanta que existam tratamentos de erro com TRY CATCH e controle de transação."
+
+
+BY matheus henrique
 
 Prompt: "Documente o que cada parte deste script SQL faz, detalhando a lógica dos joins e a finalidade das tabelas temporárias"
 
