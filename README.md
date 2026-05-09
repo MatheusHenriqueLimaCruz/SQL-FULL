@@ -25,7 +25,7 @@ Foco: Qualidade, agilidade e otimização de consultas em ecossistemas Microsoft
 
 # Miniguia de Estudo 
 
-+++++ Um glossário com os principais conceitos aprendidos +++++
+** Um glossário com os principais conceitos aprendidos 
 
 * SELECT: Comando principal para a extração e visualização de dados de uma ou mais tabelas.
 * FROM: Define a origem dos dados, indicando em qual tabela a consulta deve buscar as informações.
