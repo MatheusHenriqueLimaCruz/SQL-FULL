@@ -1,4 +1,4 @@
-# SQL-FULL
+# NotebookLM
 
 Este repositório é fruto de meus estudo com o NotebookLM.
 
