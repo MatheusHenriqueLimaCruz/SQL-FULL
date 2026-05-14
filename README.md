@@ -1,4 +1,4 @@
-# NotebookLM
+# SQL ASSISTANT
 
 Este repositório é fruto de meus estudo com o NotebookLM.
 
